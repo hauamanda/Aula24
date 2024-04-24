@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color:#EEF4ED; 
+}
+
+.tudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: #134074;
+}

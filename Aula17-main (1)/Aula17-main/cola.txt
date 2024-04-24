@@ -1,0 +1,53 @@
+BASIC
+
+-Pra começar o HTML, ecrever na tela html:5
+
+-colar sempre isso depois antes de head <link rel="stylesheet" href="style.css">
+
+-height: altura
+-width: largura
+
+-quando colocar * (css) as alteraçoes vao ser para todas as coisas da pagina
+-padding:  é responsável por definir uma distância interna entre um elemento e sua borda
+
+-TODO CSS COLOCAR:
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family:   ;
+}
+
+Quando usar id e quando usar class?
+O id (unico) so pode se repetir uma vez em um arquivo, e a classe nao segue essa regra.
+
+header, nav, main, footer - SAO TAGS
+
+form - tag de formulario (tudo oq é numerico posso definir min e max)
+-number: posso definir valor min e max (Aula2Ex- linha 14)
+-colocar letrinhas nos campos de formulario: placeholder="Insira o titulo" (Aula2Ex - linha 13)
+
+fildset é usado para agrupar elementos, assim como labels ( <label> ), dentro de um formulário web
+
+label representa uma legenda para um item em uma interface de usuário
+
+metodo (Aula2Ex - linha 11): post- nao aparece os dados
+        get - aparece os dados 
+
+_____________________________________________________________________________________________________
+AULA 6/3
+DIV:
+TAMANHO:border + padding + largura
+
+----------------------------------------------------------------------------------------------------
+AULA 13/03
+
+para colocar fontes, pesquisar no google fonts, e importar!
+
+https://staratlas.com/
+
+---------------------------------------------------------------------------------------------------
+
+ <script src="script.js" defer></script>
+
+ adicionar e remover tag
